@@ -7,4 +7,4 @@ Inspiración y concepto: Este panel de control fue elaborado teniendo en mente l
 
 ## Imagenes
 
-<img src="Imágenes-demo/gif.GIF?raw=true"/>
+<img src="Imágenes-demo/gif.gif?raw=true"/>
