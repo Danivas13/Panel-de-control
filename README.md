@@ -1,4 +1,4 @@
-# Panel-de-control
+# Panel de control y administrador de contenidos, recepcion de ordenes y programacion de tareas para repartidores.
 Elaborado con html,css,js,php y jquery (unico framework utilizado)
 
 Este prooyecto comprende un excelente panel de control para administradores y colaborades como multiples opciones para recepcion de pedidos, manejo de inventarios y todo lo que un sitio de servicios o productos a domicilio necesitase.
